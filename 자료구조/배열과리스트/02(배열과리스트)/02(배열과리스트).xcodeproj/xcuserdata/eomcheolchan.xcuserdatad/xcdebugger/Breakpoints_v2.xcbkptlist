@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "5B4DA28E-001D-494E-8CE4-9ED024AA2829"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1D8DE9BA-BE7B-4162-81D0-FF2A564066D1"
+            shouldBeEnabled = "Yes"
+            condition = "sum &gt;= 100"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "02(&#x1107;&#x1162;&#x110b;&#x1167;&#x11af;&#x1100;&#x116a;&#x1105;&#x1175;&#x1109;&#x1173;&#x1110;&#x1173;)/main.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Actions>
+               <BreakpointActionProxy
+                  ActionExtensionID = "Xcode.BreakpointAction.DebuggerCommand">
+                  <ActionContent
+                     consoleCommand = "po sum">
+                  </ActionContent>
+               </BreakpointActionProxy>
+            </Actions>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
